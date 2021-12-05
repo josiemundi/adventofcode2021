@@ -1,6 +1,3 @@
-
-import numpy as np
-
 def solve_puzzle(puzzle_input):
     instructions = puzzle_input.splitlines(False)
     binary_result_gamma=[]
